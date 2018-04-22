@@ -2,7 +2,6 @@
 
 A new Flutter project to animate pageviews
 
-## Getting Started
+## ScreenRecording
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![ScreenRecording](https://github.com/PonnamKarthik/FlutterPageViewAnimation/raw/master/screens/recorded.gif)

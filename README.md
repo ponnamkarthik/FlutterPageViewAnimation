@@ -4,4 +4,4 @@ A new Flutter project to animate pageviews
 
 ## ScreenRecording
 
-![ScreenRecording](https://github.com/PonnamKarthik/FlutterPageViewAnimation/raw/master/screens/recorded.gif)
+<img src="https://github.com/PonnamKarthik/FlutterPageViewAnimation/raw/master/screens/recorded.gif" width="300">
